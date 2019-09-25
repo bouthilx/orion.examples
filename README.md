@@ -3,6 +3,9 @@
 You can find here examples for the commandline API and python APIs (worker, service and framework
 APIs).
 
+These examples are based on pytorch's
+[mnist example](https://github.com/pytorch/examples/tree/master/mnist).
+
 ## Installation
 
 ```bash
